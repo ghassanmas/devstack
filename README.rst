@@ -178,8 +178,6 @@ The default devstack services can be run by following the steps below.
 
    This is expected to take a while, produce a lot of output from a bunch of steps, and finally end with ``Provisioning complete!``
 
-   **NOTE:** This command will bring up both MySQL 5.6 and 5.7 databases until all services are upgraded to 5.7.
-
    **NOTE:** If you are looking for instructions for NFS or docker-sync, see :ref:`Deprecated MacOS performance improvements`.
 
 #. Start the desired services. This command will mount the repositories under the
